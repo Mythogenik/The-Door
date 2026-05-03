@@ -81,6 +81,12 @@ python3 -m http.server 8080
 
 ```
 
+### API Key
+
+This project uses the **Groq API** (free, no credit card required). The API key is hardcoded directly in `index.html` — just change 'Your-API-KEY" with your real API key.
+ 
+---
+
 ## Dependencies
 
 | Dependency | Type | Purpose |
